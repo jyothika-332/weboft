@@ -1,0 +1,479 @@
+.main_body{
+    height: 3000px;
+    width: auto;
+    background-color: #ffff;
+    margin-left: 80px;
+    margin-right: 80px;
+    }
+    .nav{
+        background-color: white;
+        left: 0;
+        top: 0;
+        right: 0;
+        position: fixed;
+        width: 100%;
+        margin-left: 80px;
+    }
+    .left-side{
+        width: 15%;
+        background-color:white;
+        float: left;
+        height: 100px;
+        margin-top: 20px;
+    }
+    .list ul li{
+        margin-left: 10px;
+        display: flex;
+        display: inline;
+        padding-left: 50px;
+    
+    }
+    .right-side{
+        width: 85%;
+        float: left;
+        height: 100px;
+        background-color: white;
+        margin-top: 20px;
+        
+    }
+    .list{
+        padding-left: 350px;
+    
+    }
+    a{
+        text-decoration: none;
+    
+    }
+    .button{
+        float: right;
+        padding-right: 100px;
+        padding-top: 15px;
+        margin-top: -56px;
+        background-color: rgb;
+        font-family: sans-serif;
+    }
+    .content{
+        margin-left: 80px;
+        margin-top: 100px;
+    }
+    .left-side1{
+        width: 40%;
+        margin-top: 30px;
+        float: left;
+    }
+    .boost{
+        font-size: 50px;
+        font-family: sans-serif;
+    
+    }
+    .business{
+        font-size: 90px;
+        font-family:sans-serif;
+    }
+    .services{
+        font-size: 19px;
+        color: #606f7b;
+    }
+    .button2{
+        margin-top: 15px;
+    }
+    a{
+        padding-left: 20px;
+    }
+    .tech{
+        margin-top: 65px;
+        font-size: 16px;
+        font-family: sans-serif;
+        color: #606f7b;
+    }
+    .image2{
+        padding-right: 200px;
+        width: 300px;
+        margin-top: 10px;
+    }
+    .right-side1{
+        width: 60%;
+        float: left;
+        margin-top: 30px;
+    }
+    .image1{
+        padding-left: 75px;
+        margin-top:-15px;
+    }
+    .image1 img{
+        width: 450px;
+    }
+    .main_services{
+        font-size: 50px;
+        font-family: sans-serif;
+        line-height: 60px;
+        font-weight: 700;
+        padding-top: 10px;
+    }
+    .caption{
+        font-size: 16px;
+        line-height: 24px;
+        color: #606f7b;
+        font-weight: 400;
+        font-family: sans-serif;
+    }
+    .image3 img{
+        width: 80px;
+        margin-left: 80px;
+        padding-left: 275px;
+        padding-top: 95px;
+    }
+    .websitedev{
+        font-size: 25px;
+        line-height: 24px;
+        font-weight: 600;
+        font-family: sans-serif;
+        padding-left: 286px;
+        padding-top: 15px;
+    }
+    .webcontent{
+        margin-left: 80px;
+        font-size: 16px;
+        line-height: 23px;
+        font-weight: 400;
+        font-family: sans-serif;
+        color: rgb(96,111,123);
+        padding-top: -14px;
+        padding-left: 95px;
+    }
+    .image4 img{
+        width: 80px;
+        padding-left: 900px;
+        padding-bottom:156px;
+        margin-top: -300px;
+    }
+    .ecommerce{
+        font-size: 25px;
+        line-height: 24px;
+        font-weight: 600;
+        font-family: sans-serif;
+        padding-left: 830px;
+        margin-top: -142px;
+    }
+    .ecommercecontent{
+        padding-left: 759px;
+        font-size: 16px;
+        line-height: 23px;
+        font-weight: 400;
+        font-family: sans-serif;
+        color: rgb(96,111,123);
+    }
+    .web-readmore{
+        padding-left: 319px;
+    }
+    .ecommerce-readmore{
+        padding-left: 920px;
+    }
+    .content4{
+        width: 100%;
+        display: flex;
+        margin-left: 80px;
+        margin-top: 80px;
+    }
+    .child1{
+        width: 30%;
+        background-color: white;
+        height: 250px;
+    }
+    .image5 img{
+        width: 80px;
+        padding-left: 130px;
+    }
+    .socialmedia{
+        font-size: 20px;
+        line-height: 24px;
+        font-weight: 600;
+        font-family: sans-serif;
+        padding-left: 50px;
+        padding-top: 15px;
+    }
+    .socialmediacontent{
+        font-size: 15px;
+        line-height: 22px;
+        font-weight: 400;
+        font-family: sans-serif;
+        color: #606f7b;
+        padding-left: 60px;
+    }
+    .socialmedia-readmore{
+        padding-left: 110px;
+    }
+    .child2{
+        width: 30%;
+        background-color: white;
+        height: 250px;
+    }
+    .image6 img{
+        width: 80px;
+        padding-left: 150px;
+    }
+    .socialmanaging{
+        font-size: 20px;
+        line-height: 24px;
+        font-weight: 600;
+        font-family: sans-serif;
+        padding-left: 75px;
+        padding-top: 15px;
+    }
+    .socialmanagingcontent{
+        font-size: 15px;
+        line-height: 22px;
+        font-weight: 400;
+        font-family: sans-serif;
+        color: #606f7b;
+        padding-left: 80px;
+    }
+    .child3{
+        width: 30%;
+        background-color: white;
+        height: 250px;
+    }
+    .image7 img{
+        width: 80px;
+        padding-left: 175px;
+    }
+    .creativedisign{
+        font-size: 20px;
+        line-height: 24px;
+        font-weight: 600;
+        font-family: sans-serif;
+        padding-left: 130px;
+        padding-top: 15px;
+    }
+    .creativedesingcontent{
+        font-size: 15px;
+        line-height: 22px;
+        font-weight: 400;
+        font-family: sans-serif;
+        color: #606f7b;
+        padding-left: 80px;
+    }
+    .content5{
+        width: 1200px;
+        display: flex;
+        margin-left: 80px;
+        margin-top: 80px;
+        height: 460px;
+        background-color: #f1a19f;
+        border-radius: 20px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        -ms-border-radius: 20px;
+        -o-border-radius: 20px;
+        margin-right: 80px;
+    }
+    .child4{
+        padding-left: 60px;
+        padding-top: 50px;
+    }
+    .getrelavent{
+        color: rgb(255,255,255);
+        font-size: 40px;
+        line-height: 42px;
+        font-weight: 600;
+        font-family: sans-serif;
+        word-spacing: 0px;
+    }
+    .byusing{
+        font-size: 16px;
+        font-family: sans-serif;
+        color: rgb(255,255,255);
+        line-height: 22.5px;
+        font-weight: 400px;
+        padding-bottom: 25px;
+    }
+    .image8 img{
+        width: 530px;
+        padding-top: 40px;
+    }
+    .content6{
+        height: 650px;
+    }
+    .image9{
+        margin-left: 80px;
+        margin-top: 77px;
+    }
+    .content6left{
+        float: left;
+        font-size: 50px;
+        line-height: 60px;
+        font-family: sans-serif;
+        font-weight: 700;
+        color: rgb(20,20,20);
+        font-style: normal;
+        padding-left: 640px;
+        margin-top: -492px;
+    }
+    .caption2{
+        font-size: 14px;
+        line-height: 26px;
+        font-style: normal;
+        font-family: sans-serif;
+        margin-top: -28px;
+        color: rgb(96,111,123);
+    }
+    .content7{
+        margin-left: 80px;
+        background-color: white;
+        height: 450px;
+        margin-top: 113px;
+        display: flex;
+    }
+    .left-side7{
+        width: 47%;
+        background-color: rgb(85,61,224);
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+        padding-top: 10px;
+    }
+    .scale{
+        font-size: 30px;
+        font-family: sans-serif;
+        font-weight: 400;
+        line-height: 35px;
+        padding-left: 40px;
+        padding-top: 25px;
+        color: white;
+    }
+    .image10 img{
+        width: 300px;
+        padding-left: 150px;
+        padding-top: -10px;
+    }
+    .websitepricing{
+        padding-left: 40px;
+        padding-bottom: 10px;
+    }
+    .center7{
+        width: 22%;
+        background-color: white;
+        padding-left: 10px;
+    }
+    .image11 img{
+        width: 250px;
+        padding-left: 21px;
+        height: 210px;
+        border-radius: 15px;
+        -webkit-border-radius: 15px;
+        -moz-border-radius: 15px;
+        -ms-border-radius: 15px;
+        -o-border-radius: 15px;
+    }
+    .image12 img{
+        width: 250px;
+        padding-left: 21px;
+        padding-top: 26px;
+        height: 210px;
+        border-radius: 15px;
+        -webkit-border-radius: 15px;
+        -moz-border-radius: 15px;
+        -ms-border-radius: 15px;
+        -o-border-radius: 15px;
+    }
+    .create{
+        font-size: 18px;
+        font-family: sans-serif;
+        font-weight: 600;
+        line-height: 26px;
+        padding-left: 18px;
+        padding-top: 10px;
+    }
+    .onlineshop{
+        padding-left: 18px;
+    }
+    .accelerate{
+        font-size: 18px;
+        font-family: sans-serif;
+        font-weight: 600;
+        line-height: 26px;
+        padding-left: 18px;
+        padding-top: 101px;
+    }
+    .advertisement{
+        padding-left: 18px;
+    }
+    .footer{
+        background-color:white;
+        height: 400px;
+        margin-top: 100px;
+        display: flex;
+    }
+    .set1{
+        width: 40%;
+        margin-left: 80px;
+    }
+    .image1-last img{
+        width: 190px;
+        padding-top: 50px;
+    }
+    .list2 {
+        padding-left: 5px;
+        font-size: 14px;
+        font-family: sans-serif;
+        color: rgb(96,111,123);
+    }
+    .set2{
+        width: 20%;
+    }
+    .services-last{
+        font-size: 20px;
+        font-family: sans-serif;
+        padding-top: 66px;
+        padding-left: 40px;
+    }
+    .list3 ul{
+        list-style-type: none;
+        padding-top: 15px;
+        padding-left: 20px;
+    }
+    .set3{
+        width: 15%;
+    }
+    .products-last{
+        font-size: 20px;
+        font-family: sans-serif;
+        padding-top: 66px;
+        padding-left: 30px;
+    }
+    .list4 ul{
+        list-style-type: none;
+        padding-top: 15px;
+        padding-left: 10px;
+    }
+    .set4{
+        width: 25%;
+    }
+    .company{
+        font-size: 20px;
+        font-family: sans-serif;
+        padding-top: 66px;
+        padding-left: 30px;
+    }
+    .list5 ul{
+        list-style-type: none;
+        padding-top: 15px;
+        padding-left: 10px;
+    }
+    .end{
+        font-size: 14px;
+        color: rgb(96,111,123);
+        margin-top: 20px;
+    }
+    .whatsapp{
+        margin-top: -76px;
+        padding-right: 30px;
+    }
+    .whatsapp img{
+        width: 50px;
+        background-color: green;
+        float: right;
+    }
+    
